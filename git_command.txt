@@ -7,3 +7,11 @@ git rm --cached filename
 git restore filename
 clear
 ls
+git remote add origin h... 
+git remote -v
+clear
+git remote -v
+git remote set-url orig...
+git remote -v
+git push origin master     
+git history
